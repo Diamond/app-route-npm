@@ -1,0 +1,11 @@
+{
+  "name": "@diamondgfx/app-route",
+  "version": "1.0.0",
+  "description": "An NPM-compatible version of app-route (no more bower!)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
