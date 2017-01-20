@@ -1,6 +1,6 @@
 {
   "name": "@diamondgfx/app-route",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An NPM-compatible version of app-route (no more bower!)",
   "main": "index.js",
   "scripts": {
