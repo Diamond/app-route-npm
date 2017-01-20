@@ -1,11 +1,11 @@
 {
   "name": "@diamondgfx/app-route",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An NPM-compatible version of app-route (no more bower!)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Brandon Richey <richeyb@gmail.com>",
   "license": "ISC"
 }
